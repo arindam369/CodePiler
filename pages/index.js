@@ -30,8 +30,6 @@ export default function Homepage() {
   return (
     <>
       <div className={styles.homeContainer}>
-        <h2>CodePiler : Compile your code (Striver Assignment)</h2>
-
         <div className={styles.formContainer}>
           <input
             type="text"
